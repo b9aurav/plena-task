@@ -31,9 +31,11 @@ npm install
 ```
 3. Execute task 1
 ```
+// Enter your account address in .env file before execution
 node task1.js
 ```
 4. Execute task 2
 ```
+// Enter required details in task2.js file before execution
 node task2.js
 ```
